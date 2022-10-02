@@ -5,7 +5,7 @@ import { createPostgresConnection } from 'remult/postgres'
 
 export const api = remultExpress({
   dataProvider: createPostgresConnection({
-    connectionString: process.env["PORT"] || "postgres://postgres:MASTERKEY@localhost/postgres"
+    connectionString: process.env["DATABASE_URL"] || "postgres://postgres:MASTERKEY@localhost/postgres"
   }),
   getUser: request => request.session!['user'],
   entities: [Task],
