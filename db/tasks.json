@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Setup",
+    "completed": true
+  },
+  {
+    "id": 2,
+    "title": "Entities",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "title": "Paging, sorting & Filtering",
+    "completed": true
+  },
+  {
+    "id": 5,
+    "title": "Create",
+    "completed": true
+  },
+  {
+    "id": 6,
+    "title": "Update",
+    "completed": true
+  },
+  {
+    "id": 7,
+    "title": "Delete",
+    "completed": true
+  },
+  {
+    "id": 8,
+    "title": "Validation",
+    "completed": true
+  },
+  {
+    "id": 9,
+    "title": "Backend methods",
+    "completed": true
+  },
+  {
+    "id": 10,
+    "title": "Authentication",
+    "completed": true
+  },
+  {
+    "id": 11,
+    "title": "Authorization",
+    "completed": true
+  },
+  {
+    "id": 12,
+    "title": "Database ",
+    "completed": true
+  },
+  {
+    "id": 13,
+    "title": "Deployment",
+    "completed": true
+  }
+]
